@@ -18,7 +18,7 @@ PS: The mug cake was terrible.</p>
 <img src="G.jpeg" alt="Image" height="750" width="600" border="10" color="white" />
 <img src="H.jpeg" alt="Image" height="750" width="600" border="10" color="white" />
 <img src="I.jpeg" alt="Image" height="750" width="600" border="10" color="white" />
-<img src="J.jpeg" alt="Image" height="750" width="600" border="10" color="white" />
+<img src="J.jpeg" alt="Image" height="650" width="600" border="10" color="white" />
 <img src="K.jpeg" alt="Image" height="750" width="600" border="10" color="white" />
 <img src="L.jpeg" alt="Image" height="750" width="600" border="10" color="white" />
 <img src="M.jpeg" alt="Image" height="750" width="600" border="10" color="white" />
