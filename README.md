@@ -1,4 +1,7 @@
 <!DOCTYPEhtml>
+<head>
+ <title> My Culinary Experience </title>
+</head>
 <body bgcolor="lightgrey">
 <H1><font color="black">All I made This Summer</font></H1>
 <p>​Who would've thought that from something as simple as a mug cake, I would discover a passion like none other. 
