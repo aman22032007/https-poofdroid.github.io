@@ -1,6 +1,6 @@
 <!DOCTYPEhtml>
-<head>
- <title> My Culinary Experience </title>
+<head> 
+ My Culinary Experience
 </head>
 <body bgcolor="lightgrey">
 <H1><font color="black">All I made This Summer</font></H1>
