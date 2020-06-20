@@ -1,7 +1,4 @@
 <!DOCTYPEhtml>
-<head>
-<title>My Culinary Experience</title>
-</head>
 <body bgcolor="lightgrey">
 <H1><font color="black">All I made This Summer</font></H1>
 <p>​Who would've thought that from something as simple as a mug cake, I would discover a passion like none other. 
@@ -32,5 +29,4 @@ PS: The mug cake was terrible.</p>
 <img src="U.jpeg" alt="Image" height="750" width="600" border="10" color="white" />
 <p>I hope that seeing me,you too will love cooking!</p>
 </body>
-</html>
-The culinary journey of a poof
+
