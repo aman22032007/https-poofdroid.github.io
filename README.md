@@ -7,6 +7,7 @@
 <p>​Who would've thought that from something as simple as a mug cake, I would discover a passion like none other. 
 I started from baking simple sponges and cupcakes, which slowly progressed into increasingly complex cakes and
  savory foods. I invite you to experience my journey first-hand, and to see how much further I can grow as a chef.
+ hahahahahahahahahahahahahahahahahhaahhhahahhhahahaah
 <br>
 PS: The mug cake was terrible.</p>
 <img src="A.jpeg" alt="Image" height="750" width="600" border="10" color="white" />
