@@ -10,7 +10,9 @@ I started from baking simple sponges and cupcakes, which slowly progressed into 
 <br>
 PS: The mug cake was terrible.</p>
 <img src="A.jpeg" alt="Image" height="750" width="600" border="10" color="white" />
+ <ul>Pineapple Sponge Cake</ul>
 <img src="B.jpeg" alt="Image" height="750" width="600" border="10" color="white" />
+ <ul>Oreo Cake</ul>
 <img src="C.jpeg" alt="Image" height="750" width="600" border="10" color="white" />
 <img src="D.jpeg" alt="Image" height="750" width="600" border="10" color="white" />
 <img src="E.jpeg" alt="Image" height="750" width="600" border="10" color="white" />
