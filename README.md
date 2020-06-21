@@ -1,4 +1,4 @@
-<!DOCTYPEhtml>
+
 <head> 
  My Culinary Experience
 </head>
